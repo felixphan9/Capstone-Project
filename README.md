@@ -7,7 +7,7 @@
 
 − Research and develop algorithms for controlling an automated welding robot for predefined targets.
 
-− Construct a user-friendly interactive interface to serve educational and research purposes.
+− Construct a user-friendly interactive GUI.
 
 🔭 Scope:
 − Objects: Electronic components used for insertion, such as: fences, plug resistors, plug capacitors, LED lights, integrated circuits, and transistors.
