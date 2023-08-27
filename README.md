@@ -1,6 +1,7 @@
 # Capstone-Project 📽️
 🏹 Objectives:
-− Research, develop, and build a program for detecting the target to be welded, and estimating the welding position.
+
+− Research, develop, and build a program for detecting the target to be soldered, and estimating the soldering position.
 
 − Study the design of a lead soldering delivery system for electronic component soldering operations.
 
@@ -9,7 +10,7 @@
 − Construct a user-friendly interactive interface to serve educational and research purposes.
 
 🔭 Scope:
-− Objects: Electronic components used for insertion, such as: fences, plug resistors, plug capacitors, LED lights, integrated circuits, transistors.
+− Objects: Electronic components used for insertion, such as: fences, plug resistors, plug capacitors, LED lights, integrated circuits, and transistors.
 
 − Layout: Electronic components are arranged on a PCB soldering test board within the defined working area.
 
