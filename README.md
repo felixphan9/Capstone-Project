@@ -12,4 +12,5 @@
 − 📷: ELECOM UCAM-C750FBBK.
 
 Skills: Deep Learning, Computer Vision, Robotics, C++, Qt
+
 URL: https://www.youtube.com/watch?v=jwnIFcC9xe0
