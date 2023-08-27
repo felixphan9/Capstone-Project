@@ -1,4 +1,4 @@
-# Capstone-Project 📽️
+# Capstone-Project: Soldering Through-hole Components Application Using Yaskawa Motomini Robot
 🏹 Objectives:
 
 − Research, develop, and build a program for detecting the target to be soldered, and estimating the soldering position.
