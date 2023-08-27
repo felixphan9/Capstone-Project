@@ -1,4 +1,4 @@
-# Capstone-Project
+# Capstone-Project 📽️
 🏹 Objectives:
 − Research, develop, and build a program for detecting the target to be welded, estimating the welding position.
 − Study the design of a lead soldering delivery system for electronic component soldering operations.
